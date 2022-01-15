@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "nodegit": "^0.26.2",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
